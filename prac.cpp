@@ -9,7 +9,9 @@ int main(){
     
     int a =10;
     int b= 5;
-    cout<< a+b <<endl;
+ //change from github server
+ int c = 2;
+    cout<< a+b*c <<endl;
 
 return 0;
 }
